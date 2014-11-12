@@ -1,0 +1,14 @@
+{
+  "name": "barfscrape",
+  "version": "1.0.0",
+  "description": "scrapes barf site for cbr parts",
+  "main": "scraper.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vance Ingalls",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^1.3.0"
+  }
+}
